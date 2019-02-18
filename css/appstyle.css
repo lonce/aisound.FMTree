@@ -1,0 +1,33 @@
+html, body
+{
+	background-color:grey;
+	height: 98%;
+	width: 98%;
+	color: white;
+
+}
+
+p, label {
+  font-family: Verdana, Geneva, sans-serif;
+}
+label {
+	margin: 20px;
+}
+
+h3 {color:white;
+	height: 15%;
+	user-select: none;
+	text-align: center;
+}
+
+
+#svg_area {
+	border: 1px solid #00f;
+	margin: auto;
+	background-color: black;
+
+}
+
+
+
+
