@@ -5,8 +5,8 @@ On using the Stern-Brocot sequence to iterate efficiently through all rational n
 //import sndFactory from 'http://localhost:8000/aiSounds/fm2.js'
 //import aiSlider from 'http://localhost:8000/aisInterface/aiSlider.js'
 
-import sndFactory from 'https://aisound.cloud/aiSounds/fm2.js'
-import aiSlider from 'https://aisound.cloud/aisInterface/aiSlider.js'
+import sndFactory from 'https://aisound.sonicthings.org/aiSounds/fm2.js'
+import aiSlider from 'https://aisound.sonicthings.org/aisInterface/aiSlider.js'
 
 
 //--------------------------
